@@ -815,7 +815,7 @@ section,
   position: absolute;
   inset: 0;
   background-image: 
-    radial-gradient(circle, rgba(255, 0, 72, 0.4) 2px, transparent 2px),
+    radial-gradient(circle, rgba(255, 0, 72, 0.763) 2.5px, transparent 2px),
     radial-gradient(circle, rgba(255, 236, 58, 0.3) 1.5px, transparent 1.5px),
     radial-gradient(circle, rgba(255, 255, 255, 0.2) 1px, transparent 1px);
   background-size: 200px 200px, 150px 150px, 100px 100px;
